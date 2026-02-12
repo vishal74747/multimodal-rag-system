@@ -1,0 +1,14 @@
+streamlit==1.31.0
+pypdf==4.0.1
+pillow==10.2.0
+python-dotenv==1.0.1
+langchain==0.1.20
+langchain-community==0.0.38
+sentence-transformers==2.3.1
+chromadb==0.4.22
+groq==0.4.2
+numpy==1.26.4
+pandas==2.2.0
+transformers==4.37.2
+torch==2.1.2
+tqdm==4.66.1
